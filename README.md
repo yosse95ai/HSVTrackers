@@ -1,5 +1,5 @@
 # クリックしたピクセルのRGB, HSV値を出力
-inputImageのウィンドウ内でクリックした座標のRGB値，HSV値を出力する．
+Input imageウィンドウ内でクリックした座標のRGB値，HSV値を出力する．
 
 ## RGBHSVer.exe
 
