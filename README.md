@@ -1,5 +1,6 @@
 # クリックしたピクセルのRGB, HSV値を出力
 Input imageウィンドウ内でクリックした座標のRGB値，HSV値を出力する．
+おそらくx64のOS上なら動くかと思います．
 
 ## RGBHSVer.exe
 
@@ -18,7 +19,7 @@ Webカメラから取得した画像の値を出力.
 
 Depthカメラ(Xtion PRO LIVE)から取得した画像の値を出力.
 
-OpenNIのdll関連ファイル/フォルダがないと動かない.
+※OpenNIのdll関連ファイル/フォルダがないと動かない.
 
 ![NI](https://github.com/yosse95ai/HSVTrackers/blob/src/NI.png)
 
