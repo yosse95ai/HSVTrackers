@@ -1,4 +1,6 @@
 # クリックしたピクセルのRGB, HSV値を出力
+inputImageのウィンドウ内でクリックした座標のRGB値，HSV値を出力する．
+
 ## RGBHSVer.exe
 
 D&Dされた画像の値を出力.
